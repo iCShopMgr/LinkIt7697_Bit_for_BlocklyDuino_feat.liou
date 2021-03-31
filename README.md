@@ -24,7 +24,7 @@
 
 # 7697:bit breakout
 <p align="center">
-  <img src="https://github.com/iCShopMgr/LinkIt7697_Bit_for_BlocklyDuino/blob/master/pinout.PNG" width="700"/>
+  <img src="https://github.com/iCShopMgr/LinkIt7697_Bit_for_BlocklyDuino_feat.liou/blob/master/pinout.PNG" width="700"/>
 </p>
 
 # 使用說明
